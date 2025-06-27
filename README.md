@@ -51,7 +51,9 @@ java app.MainApplication
 
 
 
+
 ## 📁 패키지 구조 요약
+
 src/
 ├── card/ # 카드 정보 VO, DAO, Service
 │ ├── CardVO.java
@@ -92,5 +94,3 @@ markdown
 - 각 패키지는 **도메인별 역할**로 명확히 분리
 - `file/` 서브패키지는 `.obj` 직렬화 기반 DAO 저장소 모듈
 - `app/` 패키지는 콘솔 실행 진입점 및 전체 흐름 제어 담당
-
-
