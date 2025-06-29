@@ -238,14 +238,7 @@ VO/DAO/Service 계층이 분리되어 있으며, 각 책임이 명확하게 정�
 
 
 
-
-
-<h3>📌 작동 시나리오</h3>
-
-<p align="center">
-  <img src="./asset/VPN1RjD048RlblmEgruu5OaR9rJW5RYX74ooIQmwTkLiL112Ch4h4jf3eGrKhHEbbBPAbKecDIALu6KuUjVlm1AltTsfPSc7-9zlPsV_cNKskiHmIQzZwLgtRbWOFNhucF_SDEqjmpKwgDis6iwsQRTGqx2wM0urSDFeMUG5VasUMcRBxc2R80itYGnPfet9cosC (2).png" alt="작동 시나리오" width="1000"/>
-</p>
-
+![VPN1RjD048RlblmEgruu5OaR9rJW5RYX74ooIQmwTkLiL112Ch4h4jf3eGrKhHEbbBPAbKecDIALu6KuUjVlm1AltTsfPSc7-9zlPsV_cNKskiHmIQzZwLgtRbWOFNhucF_SDEqjmpKwgDis6iwsQRTGqx2wM0urSDFeMUG5VasUMcRBxc2R80itYGnPfet9cosC (1)](https://github.com/user-attachments/assets/75a0cba9-19d6-4935-b6f5-f5ef9dd1cea1)
 
 
 
