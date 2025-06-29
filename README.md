@@ -46,7 +46,8 @@
 - **IDE**: Eclipse (또는 IntelliJ)
 - **실행 방식**: CLI(Console) 기반
 
-
+### 📁 패키지 구조 요약
+```text
 src/
 ├── card/                카드 정보 VO, DAO, Service
 │   ├── CardVO.java
@@ -79,6 +80,7 @@ src/
 │
 └── app/                 실행 진입점
     └── MainApplication.java
+```
 
 
 
