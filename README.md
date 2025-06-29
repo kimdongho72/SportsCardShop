@@ -225,7 +225,7 @@ VO/DAO/Service 계층이 분리되어 있으며, 각 책임이 명확하게 정�
 
 ## 🎥 작동 시나리오
 
-![RPBFQkfG4CRtvobcgIltkhW-mTtVvOKRkOBLOj9zcgGqKXU21iK_8T8_nH8XnhIDqBxGcJdlq9FZGOAuSfpvvZlV_4ZJjFxshPkh3bC5OtKn7z9Yn1ERmhi6g-DwoJzpMkKDnjejgF3CnfUOmf5iIT6lAbZ_ZIvK_XXcbG7KJtF0pGG76T2hfvpaZ0uPZfU0unsk](https://github.com/user-attachments/assets/08789062-9c19-4fe8-bc64-8b3b099c5903)
+![작동 시나리오](https://github.com/user-attachments/assets/77bdfe22-27b4-45f6-9f5c-3348984a2148)
 
 
 ## 🎥 프로젝트 시연 영상 ( 공개로 수정 해야됨)
