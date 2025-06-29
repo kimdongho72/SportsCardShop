@@ -225,7 +225,8 @@ VO/DAO/Service 계층이 분리되어 있으며, 각 책임이 명확하게 정�
 
 ## 🎥 작동 시나리오
 
-<img src="https://github.com/user-attachments/assets/2e48f043-2788-4854-8ce0-3d3db443cc66" width="200%">
+![작동시나리오_확대버전](./assets/작동시나리오_확대버전.png)
+
 
 
 
